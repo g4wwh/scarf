@@ -18,21 +18,26 @@
 
 .. toctree::
     :hidden:
-    :caption: Applications
+    :caption: Your SCARF Account
 
-    scarf_apps.rst
-
-.. toctree::
-    :hidden:
-    :caption: Documentation
-
-    scarf_documentation.rst
     ssh_key.rst
     registration.rst
     accessing.rst
     scarf_storage_areas.rst
     scarf_browsing.rst
     GPUs.rst
+
+.. toctree::
+    :hidden:
+    :caption: Using SCARF 
+
+    scarf_apps.rst
+    scarf_queues.rst
+    scarf_job_submit.rst
+    scarf_code_compiling.rst
+    scarf_code_sharing.rst
+    scarf_training.rst
+    scarf_advanced_features.rst
 
 .. toctree::
     :hidden:
