@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath('_ext'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'scarf'
+project = 'SCARF User Documentation'
 copyright = '2020, Phil Pavelin'
 author = 'Phil Pavelin'
 
