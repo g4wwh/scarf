@@ -1,10 +1,6 @@
-########
-Hardware
-########
-
-*******************
+###################
 SCARF Configuration
-*******************
+###################
 
 The hardware for SCARF is purchased on a yearly basis, with each new addition added to the same set of computational job queues so as to give the users a seamless experience. This has the advantage of meaning that no large outlay of money is needed in a single year, as well as enabling us to get the best quality hardware for our money on each occasion.
 

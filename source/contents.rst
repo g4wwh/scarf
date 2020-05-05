@@ -27,6 +27,12 @@
     :caption: Documentation
 
     scarf_documentation.rst
+    ssh_key.rst
+    registration.rst
+    accessing.rst
+    scarf_storage_areas.rst
+    scarf_browsing.rst
+    GPUs.rst
 
 .. toctree::
     :hidden:
