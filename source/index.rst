@@ -1,0 +1,85 @@
+
+.. include:: contents.rst
+
+.. image:: _images/edit_on_github.jpeg
+   :target: https://github.com/stfc/scarf-docs/blob/master/content/index.rst
+
+===========================================
+SCARF Service User Documentation
+===========================================
+
+Overview
+========
+
+SCARF is an HPC (High Performance Computing) cluster open to all STFC departments and Diamond, which is run by Scientific Computing's Research Infrastructure Group to support scientists and researchers.
+
+It is run by `STFC's <https://stfc.ukri.org/>`_
+`Scientific Computing Research Infrastructures Group <https://stfc.ukri.org/about-us/where-we-work/rutherford-appleton-laboratory/research-infrastructure-group-rig/>`_  and it is hosted at STFC's Rutherford Appleton Laboratory.
+
+************
+SCARF People
+************
+
+Nick Hill - Research Infrastructure Group Leader
+
+Derek Ross - SCARF Project Manager
+
+Jon Roddom - SCARF Support
+
+********************
+SCARF Annual Reports
+********************
+
++--------------+--------------+--------------+
+| `2017-2018`_ | `2016-2017`_ | `2015-2016`_ |
++--------------+--------------+--------------+
+| `2014-2015`_ | `2013-2014`_ | `2012-2013`_ |
++--------------+--------------+--------------+
+| `2011-2012`_ | `2010-2011`_ | `2009-2010`_ |
++--------------+--------------+--------------+
+
+
+.. _2017-2018: docs/RAL-TR-2019-006.pdf
+
+.. _2016-2017: docs/RAL-TR-2018-005.pdf
+
+.. _2015-2016: docs/RAL-TR-2017-001.pdf
+
+.. _2014-2015: docs/RAL-TR-2015-014.corr.pdf
+
+.. _2013-2014: docs/RAL-TR-2014-017.pdf
+
+.. _2012-2013: docs/SCARF_Annual_Report_2012-2013.pdf
+
+.. _2011-2012: docs/SCARF_Annual_Report_2011-2012.vfinal.pdf
+
+.. _2010-2011: docs/SCARF_Annual_Report_2010-2011.v1.5.pdf
+
+.. _2009-2010: docs/SCARF_Annual_Report_2009-2010.v1.2.pdf
+
+
+
+******************************
+Acknowledgment for using SCARF
+******************************
+
+If you publish research that has made use of the SCARF cluster, please make sure to include us in your acknowledgments as: "Computing resources provided by STFC Scientific Computing Department's SCARF cluster".
+
+****************
+Staying informed
+****************
+
+SCARF users can get up-to-date news via their choice of 2 sources:
+
+All users automatically receive e-mail via the SCARF-USERS mailing list.
+
+`SCARF-USERS <http://www.jiscmail.ac.uk/lists/SCARF-USERS.html>`_
+
+News can be read directly from this website on the News page.
+
+Other interested parties are invited to join the closed, low volume SCARF-ANNOUNCE mailing list.
+
+
+.. seealso::
+
+   Please read our `data protection policy <http://130.246.142.253/06_policy/policy.html>`_ for the information that we retain for this purpose.
