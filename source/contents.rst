@@ -1,36 +1,41 @@
-
 .. toctree::
-    :maxdepth: 1
+    :hidden:
     :caption: News
 
-    01-01_scarf_users.rst
+    scarf_news.rst
 
 .. toctree::
     :hidden:
     :caption: Status
 
-    02-01_scarf_status.rst
+    scarf_status.rst
 
 .. toctree::
     :hidden:
     :caption: Hardware
 
-    03-01_scarf_hardware.rst
+    scarf_hardware.rst
+
+.. toctree::
+    :hidden:
+    :caption: Applications
+
+    scarf_apps.rst
 
 .. toctree::
     :hidden:
     :caption: Documentation
 
-    04-01_scarf_documentation.rst
+    scarf_documentation.rst
 
 .. toctree::
     :hidden:
     :caption: Groups
 
-    05-01_groups.rst
+    scarf_groups.rst
 
 .. toctree::
     :hidden:
     :caption: Contact Us
 
-    06-01_contact.rst
+    scarf_contact.rst

@@ -2,7 +2,8 @@
 .. include:: contents.rst
 
 .. image:: _images/edit_on_github.jpeg
-   :target: https://github.com/stfc/scarf-docs/blob/master/content/index.rst
+   :target: https://github.com/g4wwh/scarf/blob/master/content/index.rst
+   :align: right
 
 ===========================================
 SCARF Service User Documentation
@@ -66,7 +67,7 @@ Acknowledgment for using SCARF
 If you publish research that has made use of the SCARF cluster, please make sure to include us in your acknowledgments as: "Computing resources provided by STFC Scientific Computing Department's SCARF cluster".
 
 ****************
-Staying informed
+Staying Informed
 ****************
 
 SCARF users can get up-to-date news via their choice of 2 sources:
@@ -75,9 +76,10 @@ All users automatically receive e-mail via the SCARF-USERS mailing list.
 
 `SCARF-USERS <http://www.jiscmail.ac.uk/lists/SCARF-USERS.html>`_
 
-News can be read directly from this website on the News page.
+News can be read directly from this website on the `NEWS <scarf_news>`_ page.
 
-Other interested parties are invited to join the closed, low volume SCARF-ANNOUNCE mailing list.
+Other interested parties are invited to join the closed, low volume
+`SCARF-ANNOUNCE <http://www.jiscmail.ac.uk/lists/scarf-announce.html>`_ mailing list.
 
 
 .. seealso::
