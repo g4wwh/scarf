@@ -11,20 +11,32 @@ Each user has a file limit of 80GB in their home directory, which is enforced by
 
 You can check your current usage and quota using e.g. the command
 
-$ pan_quota
+.. code-block:: console
+
+  $ pan_quota
+
 The home directories are backed up on a nightly basis.
 
+**********************
 The /work3 directories
+**********************
+
 The /work3 directories are intended to allow users access to very large amounts of storage, so that they are able to have access to things like large datasets or temporary files that would not fit in their home directories. When you register, you are not automatically given a /work directory. However you are free to create one under the directory corresponding to the group you have been placed in - use the command
 
+******
 groups
+******
+
 and it will be the first entry listed after the colon
 
 The /work3 directory is exported over the whole cluster, and is visible from any of the nodes.
 
 It is critically important to note that the data in the /work3 directories is NEVER backed up. As such, vital results or data should not be stored here. However, the data is stored in our Pansas file system which is capable of reconstructing files if one of the underlying storage units fails, so there is some measure of resiliency.
 
+***********************************************
 The /scratch, /fastscratch and /tmp directories
+***********************************************
+
 The /scratch directory is a temporary filespace that is shared across the whole cluster, to allow parallel jobs to access the same files over the course of their execution. This directory uses the Panasas high speed parallel file system. Please create a subdirectory eg /scratch/scarf011 and run your jobs there.
 
 The /fastscratch is a temporary filespace that is shared across the SCARF K80 GPU nodes (cn2g13-29) accessible via the gpu and gpu-exclusive partition. This uses a GPFS high speed parallel file system. Please create a directory e.g. /fastscratch/scarf180 and run jobs from there. Please note that files in this area are not accessible from the head nodes, so please remeber to copy files out to your home directory or other globally mounted directory.
@@ -33,12 +45,18 @@ Finally, the /tmp directories are all local directories, one per node. These sho
 
 Data in these directories is temporary and may be arbitrarily removed at any point once your job has finished running. Do not use them to store important output.
 
+*******
 Backups
+*******
+
 Full backups of the SCARF filestore occur weekly, together with daily incremental dumps, on a two weekly cycle. The primary purpose of backups is to enable reconstruction of the filesystem in the event of total failure of the disks, but requests to recover user files that are deleted in error will be satisfied as soon as possible.
 
 Please note that the only user data that is backed up is the contents of your /home directory.
 
+***************
 Storage Summary
+***************
+
 File system	Availability	Backups	Available size	Cleanup policy
 Home directory
 (/home/...)	Cluster wide	Weekly backup to tape
@@ -50,11 +68,18 @@ Scratch directory
 Fastscratch directory (/fastscratch)
 
 gpu and gpu-exclusive partitions only	No backups	2 Petabytes shared across all users	Data deleted automatically if has not been accessed within 30 days
+
+**************
 Temp directory
+**************
+
 (/tmp)	Local to host	No backups	
 At least 100 Gigabye(dependent on hardware generation)
 
 Data may be deleted without consultation if no jobs for the owner are currently running on the affected host
 
- Inactive Users
+**************
+Inactive Users
+**************
+
 SCARF performs an audit of users annually in October/November, if the audit determines that a user has become inactive then their home directory will be compressed, if on the next audit the user remains inactive the compressed home directory will be removed. Files owned by inactive users in the work directories will be removed. If the files are in use by multiple users it is the users' responsibility to ensure that they are owned by an active user of SCARF.
