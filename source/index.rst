@@ -1,8 +1,7 @@
-
 .. include:: contents.rst
 
-.. image:: _images/edit_on_github.jpeg
-   :target: https://github.com/g4wwh/scarf/blob/master/content/index.rst
+.. image:: _static/edit_on_github.jpeg
+   :target: https://github.com/g4wwh/scarf/blob/master/source/index.rst
    :align: right
 
 ===========================================
