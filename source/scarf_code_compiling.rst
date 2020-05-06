@@ -16,6 +16,7 @@ Compilation should not be done on either of the head nodes (scarf.rl.ac.uk and u
 
 When you need to compile you simply submit a request to the scheduler for an interactive session and it will return a shell prompt on a node. You can then compile your code, submit test jobs to the queues, recompile, etc. until you are happy and then log out of the interactive shell.
 
+.. codeblock:: console
 -bash-4.2$ srun -p devel --pty /bin/bash
 
 Please note that graphical editors will not work from the interactive nodes - if you wish to use one simply open the editor from one of the headnodes and start an interactive session in another shell. Your home directory is shared across the entire cluster so you simply edit and save your work on SCARF, but perform the compilation from the command line on the interactive node.
