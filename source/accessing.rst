@@ -61,42 +61,43 @@ Check that your machine is correctly registered with its DNS server.
 WINDOWS
 *******
 
-Click "Start", "Run" and then type "cmd" and press enter.
-Go into the new DOS window, and type "ipconfig /all".
-Make a note of the Hostname, Primary DNS Suffix and IP Address.
-Type "nslookup _my_ip_address_" where _my_ip_address_ is the address form the previous step.
-Check that the Name returned by this command is the same as the one you get by combining the Hostname and Primary DNS Suffix. If it is not, you need to contact your network administrator.
-Type "nslookup _my_hostname_" where _my_hostname_ is the name from the third step.
-Check that the Address returned by this command is the same as the one you get from the third step. If it is not, you need to contact your network administrator.
+* Click "Start", "Run" and then type "cmd" and press enter.
+* Go into the new DOS window, and type "ipconfig /all".
+* Make a note of the Hostname, Primary DNS Suffix and IP Address.
+* Type "nslookup _my_ip_address_" where _my_ip_address_ is the address form the previous step.
+* Check that the Name returned by this command is the same as the one you get by combining the Hostname and Primary DNS Suffix. If it is not, you need to contact your network administrator.
+* Type "nslookup _my_hostname_" where _my_hostname_ is the name from the third step.
+* Check that the Address returned by this command is the same as the one you get from the third step. If it is not, you need to contact your network administrator.
 
 *****************
 LINUX/UNIX/MACOSX
 *****************
 
-Open a new shell window as root or the superuser.
-Type hostname, and make a note of the result.
-Type ifconfig, and make a note of the inet addr for your main network connection (usually eth0).
-Type nslookup _my_ip_address_ where _my_ip_address_ is the address form the previous step.
-Check that the Name returned by this command is the same as the one from the second step. If it is not, you need to contact your network administrator.
-Check that the Address returned by this command is the same as the one from the third step. If it is not, you need to contact your network administrator.
-Check the system can connect to SCARF
+* Open a new shell window as root or the superuser.
+* Type hostname, and make a note of the result.
+* Type ifconfig, and make a note of the inet addr for your main network connection (usually eth0).
+* Type nslookup _my_ip_address_ where _my_ip_address_ is the address form the previous step.
+* Check that the Name returned by this command is the same as the one from the second step. If it is not, you need to contact your network administrator.
+* Check that the Address returned by this command is the same as the one from the third step. If it is not, you need to contact your network administrator.
+* Check the system can connect to SCARF
 
 *******
 WINDOWS
 *******
 
-Click "Start", "Run" and then type "cmd" and press enter.
-Go into the new DOS window, and type "telnet 130.246.142.230 22".
-If you do not get an OpenSSL message, there is a problem with your network connection to SCARF.
-Press "Ctrl-]", "q", "Enter" to quit.
+* Click "Start", "Run" and then type "cmd" and press enter.
+* Go into the new DOS window, and type "telnet 130.246.142.230 22".
+* If you do not get an OpenSSL message, there is a problem with your network connection to SCARF.
+* Press "Ctrl-]", "q", "Enter" to quit.
 
 *****************
 LINUX/UNIX/MACOSX
 *****************
 
-Open a new shell window.
+* Open a new shell window.
 
-Type telnet 130.246.142.230 22.
+* Type telnet 130.246.142.230 22.
 
-If you do not get an OpenSSL message, there is a problem with your network connection to SCARF.
-Press "Ctrl-]", "Enter", "q", "Enter" to quit.
+* If you do not get an OpenSSL message, there is a problem with your network connection to SCARF.
+
+* Press "Ctrl-]", "Enter", "q", "Enter" to quit.

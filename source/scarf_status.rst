@@ -10,34 +10,24 @@ Status
 
 We are working to reproduce the graphical view of SCARF that was previously generated from LSF data. In the interim you can determine which can Scarf nodes are available in particular partitions by running
 
-**sinfo -p <partitionname>**
+.. code-block:: console
+
+  sinfo -p <partitionname>
 
 Valid partition names at time of writing are:
 
-* scarf
-
-* preemptable
-
-* devel
-
-* derevolutionibus
-
-* fbioctopus
-
-* fbioctopus-cpu
-
-* fbioctopus-exclusive
-
-* gpu
-
-* gpu-exclusive
-
-* ibis
-
-* magnacarta
-
-* numanlys-cpu
-
-* numanlys-gpu
+| scarf
+| preemptable
+| devel
+| derevolutionibus
+| fbioctopus
+| fbioctopus-cpu
+| fbioctopus-exclusive
+| gpu
+| gpu-exclusive
+| ibis
+| magnacarta
+| numanlys-cpu
+| numanlys-gpu
  
 

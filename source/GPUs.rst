@@ -2,7 +2,9 @@
 GPUs on SCARF
 #############
 
+**********************
 Available GPU Hardware
+**********************
 
 12 nodes with dual K40 cards, restricted to the fbioctopus and fbioctopus-exclusive partitions and only usable by the CLF LSF Octopus group
 17 nodes with dual K80 cards (4 K80 devices available on node), available in the gpu partition
