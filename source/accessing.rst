@@ -48,7 +48,7 @@ SCARF provides three login hosts:
 | ui3.scarf.rl.ac.uk
 | ui4.scarf.rl.ac.uk
 
-scarf.rl.ac.uk is a highly available Virtual machine, but does not have a large amount of CPU power. It should not be used for running heavy workloads - they should either be submitted to the cluster as interactive jobs. ui3 and ui4 are more suitable for more intensive applications, but be aware that we apply limits to the amount of CPU and Memory that an individual user is able to access on the login nodes as they are shared between all users and heavy users can disrupt other SCARF users.
+scarf.rl.ac.uk is a highly available Virtual machine, but does not have a large amount of CPU power. It should not be used for running heavy workloads - they should either be submitted to the cluster as `interactive jobs <jobs.html>`_. ui3 and ui4 are more suitable for more intensive applications, but be aware that we apply limits to the amount of CPU and Memory that an individual user is able to access on the login nodes as they are shared between all users and heavy users can disrupt other SCARF users.
 
 Note: scarf.rl.ac.uk and ui3.scarf.rl.ac.uk currently support user logins on port 2222. This is a historical artifact and is no longer required or supported, port 22 is the standard, default port. ui4 does not support logins on port 2222.
 
