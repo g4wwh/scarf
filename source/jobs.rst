@@ -112,21 +112,75 @@ Task Distribution
 $$$$$$$$$$$$$$$$$
 
 
-Slurm uses cpu affinity to bind tasks to specific cpus, by default this is 1 task per cpu. However sometimes (for example OpenMP and multithreaded applications) it is desirable to have 1 task use multiple cpus, for this you use the -c parameter to specify the number of cores per task, for example
+Slurm uses cpu affinity to bind tasks to specific cpus, by default this is 1 task per cpu. However sometimes (for example OpenMP and multithreaded applications) it is desirable to have 1 task use multiple cpus, for this you use the -c parameter to specify the number of cores per task, for example:
 
--c 5
+.. code-block:: console
+
+  -c 5
 
 will allocate 5 cpus per task.
 
- 
-
 Another way to alter the default task distribution, is to have a specific number of tasks per node:
 
---ntasks-per-node=2
+.. code-block:: console
+
+  --ntasks-per-node=2
 
 will allocate 2 tasks per node. This task distribution method can also be combined with the previous one
-
  
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Requesting more memory per process
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-Partitions have a default memory allocation per cpu, see the table below, if a partition is not listed below it uses the global default of 4000MB memory per core
+Partitions have a default memory allocation per cpu, see the table below, if a partition is not listed below it uses the global default of 4000MB memory per core.
+
+
+Partitions with higher default memory limits Partitions 	Memory Limit
+gpu, gpu-exclusive 	8000M
+ibis, magnacarta, fbioctopus-cpu 	6000M
+derevolutionibus 	5000M
+
+To request more memory per core, use the parameter below, note that this can lead to allocated nodes having cores sitting idle, therefore where possible use the -C option discussed in the previous section to limit your job to sets of nodes where your increased memory limit can be met.
+
+--mem-per-cpu=5000M
+
+The table below shows the maximum efficient memory per core for SCARF hardware generations - this is the value that each core can use without reducing memory available to other cores, so to request all the memory on SCARF18 nodes, we'd say
+
+--mem-per-cpu=7994 -C scarf18
+
+Maximum efficient memory per cpu for SCARF hardware generations Hardware(feature) 	Memory Limit
+gpu13 	4000M
+scarf17 	5000M
+scarf15, scarf16 	6000M
+scarf18, scarf19 	7994M
+scarf14, gpu14, gpu15, gpu17 	8000M
+Running parallel jobs
+
+Parallel jobs are submitted using a simple script, such as the one given below for the Linpack benchmarking suite:
+
+#!/bin/bash
+#SBATCH -p scarf
+#SBATCH -n 36
+#SBATCH -t 30
+#SBATCH -o %J.log
+#SBATCH -e %J.err
+mpirun -srun /home/vol09/scarf009/hpl/bin/xhpl-gm
+
+To submit the job, do not run the script, but rather use it as the last option to sbatch, like so:
+
+sbatch my_script_name
+
+Monitoring your jobs
+
+Once you have submitted your job, there are several command line tools for monitoring their status, and the overall performance of the cluster. The main ones are:
+
+    sinfo
+    squeue
+
+Killing your jobs
+
+If you would like to kill your job, the command to do it is scancel with the job id of the job you want to kill:
+
+scancel <jobid>
+
+These all have really good man pages, but if you have any problems then please contact the helpdesk.
