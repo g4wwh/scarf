@@ -13,18 +13,21 @@ Overview
 
 SCARF is an HPC (High Performance Computing) cluster open to all STFC departments and Diamond, which is run by Scientific Computing's Research Infrastructure Group to support scientists and researchers.
 
+.. image:: _static/register.jpg
+   :target: accessing.html
+   :align: center
+   :scale: 35%
+
 It is run by `STFC's <https://stfc.ukri.org/>`_
-`Scientific Computing Research Infrastructures Group <https://stfc.ukri.org/about-us/where-we-work/rutherford-appleton-laboratory/research-infrastructure-group-rig/>`_  and it is hosted at STFC's Rutherford Appleton Laboratory.
+`Scientific Computing Research Infrastructures Group <https://stfc.ukri.org/about-us/where-we-work/rutherford-appleton-laboratory/research-infrastructure-group-rig/>`_  and it is hosted at STFC's **Rutherford Appleton Laboratory**.
 
 ************
 SCARF People
 ************
 
-Nick Hill - Research Infrastructure Group Leader
-
-Derek Ross - SCARF Project Manager
-
-Jon Roddom - SCARF Support
+* Nick Hill - Research Infrastructure Group Leader
+* Derek Ross - SCARF Project Manager
+* Jon Roddom - SCARF Support
 
 ********************
 SCARF Annual Reports
@@ -71,9 +74,7 @@ Staying Informed
 
 SCARF users can get up-to-date news via their choice of 2 sources:
 
-All users automatically receive e-mail via the SCARF-USERS mailing list.
-
-`SCARF-USERS <http://www.jiscmail.ac.uk/lists/SCARF-USERS.html>`_
+All users automatically receive e-mail via the `SCARF-USERS <http://www.jiscmail.ac.uk/lists/SCARF-USERS.html>`_ mailing list.
 
 News can be read directly from this website on the `NEWS <scarf_news>`_ page.
 
