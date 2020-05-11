@@ -33,7 +33,7 @@
 
     scarf_apps.rst
     scarf_queues.rst
-    scarf_job_submit.rst
+    jobs.rst
     scarf_code_compiling.rst
     scarf_code_sharing.rst
     scarf_training.rst
