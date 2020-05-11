@@ -1,5 +1,3 @@
-#!/usr/bin/perl
-
 #
 # Convert "SCARF News" RSS feed into rst file for sphinx
 #
