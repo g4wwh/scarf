@@ -4,22 +4,20 @@
    :target: https://github.com/g4wwh/scarf/blob/master/source/index.rst
    :align: right
 
-===========================================
-SCARF Service User Documentation
-===========================================
+.. image:: _static/sitebanner.png
+   :align: center
 
 Overview
 ========
 
-SCARF is an HPC (High Performance Computing) cluster open to all STFC departments and Diamond, which is run by Scientific Computing's Research Infrastructure Group to support scientists and researchers.
+SCARF is an HPC (High Performance Computing) cluster open to all STFC departments and Diamond, which is run by `STFC's <https://stfc.ukri.org/>`_ `Scientific Computing Research Infrastructures Group <https://stfc.ukri.org/about-us/where-we-work/rutherford-appleton-laboratory/research-infrastructure-group-rig/>`_  and it is hosted at STFC's **Rutherford Appleton Laboratory**.
 
 .. image:: _static/register.jpg
    :target: accessing.html
    :align: center
    :scale: 35%
 
-It is run by `STFC's <https://stfc.ukri.org/>`_
-`Scientific Computing Research Infrastructures Group <https://stfc.ukri.org/about-us/where-we-work/rutherford-appleton-laboratory/research-infrastructure-group-rig/>`_  and it is hosted at STFC's **Rutherford Appleton Laboratory**.
+**If you need any help, please** `contact us <https://www.scarf.rl.ac.uk/contact-us>`_.
 
 ************
 SCARF People

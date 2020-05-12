@@ -31,9 +31,11 @@
     :hidden:
     :caption: Using SCARF 
 
+    slurm.rst
     scarf_apps.rst
     scarf_queues.rst
     jobs.rst
+    gui.rst
     scarf_code_compiling.rst
     scarf_code_sharing.rst
     scarf_training.rst

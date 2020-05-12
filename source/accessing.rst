@@ -4,27 +4,27 @@ Access to SCARF
 
 Access to the cluster is different depending on whether you are a member of staff at STFC or an external collaborator.
 
-********************
+$$$$$$$$$$$$$$$$$$$$
 STFC & Diamond staff
-********************
+$$$$$$$$$$$$$$$$$$$$
 
 Simply apply for an account using the application form. Nothing else is required.
 
-**************
+$$$$$$$$$$$$$$
 Non-STFC staff
-**************
+$$$$$$$$$$$$$$
 
 If you are not a member of STFC or Diamond staff you will have to tell us the name of your STFC or Diamond Collaborator and provide an ssh public key on the application form
 
-***********************
+$$$$$$$$$$$$$$$$$$$$$$$
 Applying for an account
-***********************
+$$$$$$$$$$$$$$$$$$$$$$$
 
 SCARF is only available for scientific and academic research purposes by STFC and Diamond staff and their collaborators. As such, in order to authorise you for access we need you to fill out an application form.
 
-***********************************
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Logging in as STFC or Diamond Staff
-***********************************
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 STFC runs a Single Sign On service which means that staff are able to log into SCARF using their Federal ID and password. This can be done using most SSH clients which are commonly available, including:
 
@@ -38,9 +38,9 @@ For Windows, the agent supplied with with Putty ssh client is call Pageant and, 
 
 For Linux or Mac OS X, open a terminal and run the command ssh-add -L, this will list the ssh keys loaded in to the ssh agent
 
-***********
+$$$$$$$$$$$
 Login Hosts
-***********
+$$$$$$$$$$$
 
 SCARF provides three login hosts:
 
@@ -57,9 +57,9 @@ Before trying to access SCARF, please check the items on this list, as it helps 
 
 Check that your machine is correctly registered with its DNS server.
 
-*******
+$$$$$$$
 WINDOWS
-*******
+$$$$$$$
 
 * Click "Start", "Run" and then type "cmd" and press enter.
 * Go into the new DOS window, and type "ipconfig /all".
@@ -69,9 +69,9 @@ WINDOWS
 * Type "nslookup _my_hostname_" where _my_hostname_ is the name from the third step.
 * Check that the Address returned by this command is the same as the one you get from the third step. If it is not, you need to contact your network administrator.
 
-*****************
+$$$$$$$$$$$$$$$$$
 LINUX/UNIX/MACOSX
-*****************
+$$$$$$$$$$$$$$$$$
 
 * Open a new shell window as root or the superuser.
 * Type hostname, and make a note of the result.
@@ -81,18 +81,18 @@ LINUX/UNIX/MACOSX
 * Check that the Address returned by this command is the same as the one from the third step. If it is not, you need to contact your network administrator.
 * Check the system can connect to SCARF
 
-*******
+$$$$$$$
 WINDOWS
-*******
+$$$$$$$
 
 * Click "Start", "Run" and then type "cmd" and press enter.
 * Go into the new DOS window, and type "telnet 130.246.142.230 22".
 * If you do not get an OpenSSL message, there is a problem with your network connection to SCARF.
 * Press "Ctrl-]", "q", "Enter" to quit.
 
-*****************
+$$$$$$$$$$$$$$$$$
 LINUX/UNIX/MACOSX
-*****************
+$$$$$$$$$$$$$$$$$
 
 * Open a new shell window.
 
