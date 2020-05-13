@@ -17,7 +17,7 @@ SCARF is an HPC (High Performance Computing) cluster open to all STFC department
    :align: center
    :scale: 35%
 
-**If you need any help, please** `contact us <https://www.scarf.rl.ac.uk/contact-us>`_.
+**If you need any help, please** `contact us <scarf_contact>`_.
 
 ************
 SCARF People

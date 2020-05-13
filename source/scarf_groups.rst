@@ -8,6 +8,6 @@ These pages are intended to provide a forum for groups to publicise their work a
 
 `CLF <https://www.clf.stfc.ac.uk/Pages/Plasma-Physics-Group.aspx>`_
 
-If you would like to add details of your work on SCARF to this section then please contact the help desk so that we can set things up for you.
+If you would like to add details of your work on SCARF to this section then please contact the `help desk <scarf_contact>`_ so that we can set things up for you.
 
 
