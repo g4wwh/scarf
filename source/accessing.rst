@@ -8,19 +8,19 @@ $$$$$$$$$$$$$$$$$$$$
 STFC & Diamond staff
 $$$$$$$$$$$$$$$$$$$$
 
-Simply apply for an account using the application form. Nothing else is required.
+Simply apply for an account using the `application form <registration>`_. Nothing else is required.
 
 $$$$$$$$$$$$$$
 Non-STFC staff
 $$$$$$$$$$$$$$
 
-If you are not a member of STFC or Diamond staff you will have to tell us the name of your STFC or Diamond Collaborator and provide an ssh public key on the application form
+If you are not a member of STFC or Diamond staff you will have to tell us the name of your STFC or Diamond Collaborator and `provide an ssh public key <ssh_key>`_ on the application form.
 
 $$$$$$$$$$$$$$$$$$$$$$$
 Applying for an account
 $$$$$$$$$$$$$$$$$$$$$$$
 
-SCARF is only available for scientific and academic research purposes by STFC and Diamond staff and their collaborators. As such, in order to authorise you for access we need you to fill out an application form.
+SCARF is only available for scientific and academic research purposes by STFC and Diamond staff and their collaborators. As such, in order to authorise you for access we need you to fill out an `application form <registration>`_.
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Logging in as STFC or Diamond Staff

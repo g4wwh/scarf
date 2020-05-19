@@ -43,7 +43,7 @@ The system will then generate your key :
 Generating an ssh key on Windows
 ********************************
 
-The recommended ssh client on Windows is PuTTY. To use PuTTY with ssh keys, you will need three components which you can get from the PuTTY website
+The recommended ssh client on Windows is PuTTY. To use PuTTY with ssh keys, you will need three components which you can get from the `Putty <https://www.chiark.greenend.org.uk/~sgtatham/putty/>`_ website.
 
 * PuTTY
 * PuTTYgen

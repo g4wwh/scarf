@@ -24,7 +24,7 @@ $$$$$$$$$$$$$$$$$$$$$
 Example of scheduling
 $$$$$$$$$$$$$$$$$$$$$
 
-.. image:: _static/scheduler.png
+.. image:: /_static/images/scheduler.png
 
 Three users (left column) have jobs in the queue (middle column) which are waiting to run on the cluster (right column). As the blue user's job finishes (middle row), all three users could potentially use the two job slots that become available. However, the orange and purple users already have jobs running, whereas the blue user does not, and as such it is the blue user's jobs that are run (bottom row).
 
@@ -93,17 +93,17 @@ The node features available in SCARF partitions:
 |Partitions                     |Features                                   |
 +===============================+===========================================+
 |scarf, devel, preemptable 	|scarf14, scarf15, scarf16, scarf17, scarf18|
-|-------------------------------+-------------------------------------------+
++-------------------------------+-------------------------------------------+
 |gpu, gpu-exclusive             |gpu14, gpu15, gpu17                        |
-|-------------------------------+-------------------------------------------+
++-------------------------------+-------------------------------------------+
 |fbicoctopus, fbioctopus-exclusi|gpu13                                      |
-|-------------------------------+-------------------------------------------+
++-------------------------------+-------------------------------------------+
 |fbioctopus-cpu                 |scarf14, scarf15                           |
-|-------------------------------+-------------------------------------------+
++-------------------------------+-------------------------------------------+
 |ibis                           |scarf16                                    |
-|-------------------------------+-------------------------------------------+
++-------------------------------+-------------------------------------------+
 |magnacarta                     |scarf16                                    |
-|-------------------------------+-------------------------------------------+
++-------------------------------+-------------------------------------------+
 |derevolutionibus               |scarf17                                    |
 +-------------------------------+-------------------------------------------+
 
@@ -139,7 +139,7 @@ Partitions with higher default memory limits:
 
 +--------------------------------+---------------------------+
 |Partitions                      | Memory Limit              |
-+======================+=========+===========================+
++================================+===========================+
 |gpu, gpu-exclusive              |   8000M                   |
 +--------------------------------+---------------------------+
 |ibis, magnacarta, fbioctopus-cpu|   6000M                   |
