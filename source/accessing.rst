@@ -69,9 +69,9 @@ $$$$$$$
 * Type "nslookup _my_hostname_" where _my_hostname_ is the name from the third step.
 * Check that the Address returned by this command is the same as the one you get from the third step. If it is not, you need to contact your network administrator.
 
-$$$$$$$$$$$$$$$$$
-LINUX/UNIX/MACOSX
-$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$
+LINUX/UNIX/MACOS
+$$$$$$$$$$$$$$$$
 
 * Open a new shell window as root or the superuser.
 * Type hostname, and make a note of the result.

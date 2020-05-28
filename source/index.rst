@@ -4,11 +4,17 @@
    :target: https://github.com/g4wwh/scarf/blob/master/source/index.rst
    :align: right
 
-SCARF
-$$$$$
+.. image:: /_static/images/scarfbanner.png
+   :align: center
 
-Scientific Computing Application Resource for Facilities
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+.. raw:: html
+
+  <html>
+       <body>
+         <hr> 
+       </body>
+  </html>
+
 
 ********
 Overview
