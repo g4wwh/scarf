@@ -40,6 +40,7 @@
     scarf_code_sharing.rst
     scarf_training.rst
     scarf_advanced_features.rst
+    scarf_terms.rst
 
 .. toctree::
     :hidden:

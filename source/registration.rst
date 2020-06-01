@@ -76,8 +76,10 @@ Registration
   
   
   
-  
+       <br><br>  
   
        </body>
+
   </html>
 
+By submitting this form you declare that you have read and agree to follow the `SCARF Terms and Conditions of Use <scarf_terms.html>`_ and the `STFC Acceptable Use Policy <https://stfc.ukri.org/about-us/how-we-are-governed/policies-standards/ict-acceptable-use-policy/>`_
