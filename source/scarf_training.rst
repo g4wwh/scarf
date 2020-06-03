@@ -18,9 +18,5 @@ Information we need:
 
 We do encourage you to test your course on SCARF prior to the start of the training course, as it can avoid problems or delays during the course itself.
 
-<<<<<<< HEAD
 If you wish to use SCARF to support a training course, please get in touch using the `contact us <scarf_contact.html>`_ page or via `e-mail <mailto:iscarf@hpc-support.rl.ac.uk>`_ to discuss your requirements.
-=======
-If you wish to use SCARF to support a training course, please get in touch using the `contact us <scarf_contact>`_ page or via `e-mail <mailto:iscarf@hpc-support.rl.ac.uk>`_ to discuss your requirements.
->>>>>>> a38760091299894572d9d174db02e54580e9ef1e
 
