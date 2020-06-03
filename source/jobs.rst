@@ -216,8 +216,4 @@ If you would like to kill your job, the command to do it is scancel with the job
 
   scancel <jobid>
 
-<<<<<<< HEAD
 These all have really good man pages, but if you have any problems then please contact the `helpdesk <scarf_contact.html>`_.
-=======
-These all have really good man pages, but if you have any problems then please contact the `helpdesk <contact_form.html>`_.
->>>>>>> a38760091299894572d9d174db02e54580e9ef1e
