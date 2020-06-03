@@ -39,7 +39,7 @@ Registration
            <input type="checkbox" name="ibis">IBIS<br>
            <input type="checkbox" name="magnacarta">MagnaCarta<br>
            <input type="checkbox" name="derevolutionibus">DeRevolutionIbus<br>
-           <input type="checkbox" name="Octopus">Octopus<br>
+           <input type="checkbox" name="octopus">Octopus<br>
            <input type="checkbox" name="scddev">SCD Developer<br>
 
            <br><i>Please select if you want to request any special access rights, some allow access to restricted sets of hardware, others allow access to higher priority partitions MagnaCarta and DeRevolutionIbus machines are restricted to CLF Plasma Physics and their collaborators only. IBIS is for members of the IBIS collaboration only. Octopus is restricted to members of the CLF LSF Octopus team. SCD Developer is for SCD staff using SCARF for HPC Development work.</i> <br><br>
