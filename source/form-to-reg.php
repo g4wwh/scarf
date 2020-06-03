@@ -1,5 +1,5 @@
 <?php
-header("location:form_regthanks");
+header("location:form_regthanks.html");
 
 
   $name = $_POST['name'];
@@ -37,8 +37,8 @@ header("location:form_regthanks");
   $message .= "SSH Public Key: " . $sshkey . "\n";
   $message .= "Access to subsections of SCARF: " . $ibis . " " . $magnacarta . " " . $derevolutionibus . " " . $octopus . " " . $scddev . "\n";
   $message .= "Access to restricted applications: " . $matlab . " " . $idl . " " . $crystal . " " . $castep . " " . $dl_poly . " " . $epoch . " " . $gaussian . " " . $atsas . " " . $mathematica . "\n";
-#  $to = "philip.pavelin@stfc.ac.uk";
-  $to = "phil@pavelin.com";
+  $to = "philip.pavelin@stfc.ac.uk";
+#  $to = "phil@pavelin.com";
 #  $to = "scarf@hpc-support.rl.ac.uk";
   $mail_headers = "From: $email \r\n";
 

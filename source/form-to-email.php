@@ -1,5 +1,5 @@
 <?php
-header("location:form_thanks");
+header("location:form_thanks.html");
 
 
   $name = $_POST['name'];
