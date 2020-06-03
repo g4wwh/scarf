@@ -26,11 +26,7 @@ SCARF is an HPC (High Performance Computing) cluster open to all STFC department
    :target: accessing.html
    :scale: 30%
 
-<<<<<<< HEAD
 **If you need any help, please** `contact us <scarf_contact.html>`_.
-=======
-**If you need any help, please** `contact us <scarf_contact>`_.
->>>>>>> a38760091299894572d9d174db02e54580e9ef1e
 
 ************
 SCARF People
@@ -87,13 +83,7 @@ SCARF users can get up-to-date news via their choice of 2 sources:
 
 All users automatically receive e-mail via the `SCARF-USERS <http://www.jiscmail.ac.uk/lists/SCARF-USERS.html>`_ mailing list.
 
-<<<<<<< HEAD
 News can be read directly from this website on the `NEWS <scarf_news.html>`_ page.
-
-Other interested parties are invited to join the closed, low volume
-`SCARF-ANNOUNCE <http://www.jiscmail.ac.uk/lists/scarf-announce.html>`_ mailing list.
-=======
-News can be read directly from this website on the `NEWS <scarf_news>`_ page.
 
 Other interested parties are invited to join the closed, low volume
 `SCARF-ANNOUNCE <http://www.jiscmail.ac.uk/lists/scarf-announce.html>`_ mailing list.
@@ -102,4 +92,3 @@ Other interested parties are invited to join the closed, low volume
 .. seealso::
 
    Please read our `data protection policy <http://130.246.142.253/06_policy/policy.html>`_ for the information that we retain for this purpose.
->>>>>>> a38760091299894572d9d174db02e54580e9ef1e
