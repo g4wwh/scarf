@@ -43,3 +43,8 @@ The SCARF computational cluster is comprised of a number of host groups which ar
 |          |        |                |     |     |     |             |      |       |      |
 +----------+--------+----------------+-----+-----+-----+-------------+------+-------+------+
 
+<<<<<<< HEAD
+
+There is an image gallery with SCARF hardware images available `here <https://www.scarf.rl.ac.uk/gallery/hardware>`_
+=======
+>>>>>>> a38760091299894572d9d174db02e54580e9ef1e

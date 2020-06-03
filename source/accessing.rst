@@ -8,7 +8,11 @@ $$$$$$$$$$$$$$$$$$$$
 STFC & Diamond staff
 $$$$$$$$$$$$$$$$$$$$
 
+<<<<<<< HEAD
+Simply apply for an account using the `application form <registration.html>`_. Nothing else is required.
+=======
 Simply apply for an account using the `application form <registration>`_. Nothing else is required.
+>>>>>>> a38760091299894572d9d174db02e54580e9ef1e
 
 $$$$$$$$$$$$$$
 Non-STFC staff
@@ -20,7 +24,11 @@ $$$$$$$$$$$$$$$$$$$$$$$
 Applying for an account
 $$$$$$$$$$$$$$$$$$$$$$$
 
+<<<<<<< HEAD
+SCARF is only available for scientific and academic research purposes by STFC and Diamond staff and their collaborators. As such, in order to authorise you for access we need you to fill out an `application form <registration.html>`_.
+=======
 SCARF is only available for scientific and academic research purposes by STFC and Diamond staff and their collaborators. As such, in order to authorise you for access we need you to fill out an `application form <registration>`_.
+>>>>>>> a38760091299894572d9d174db02e54580e9ef1e
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Logging in as STFC or Diamond Staff
