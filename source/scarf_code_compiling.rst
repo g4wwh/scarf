@@ -12,7 +12,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 SCARF is a heterogenous cluster with Intel high performance processors. For most users it is not necessary to compile code for a specific architecture, as the default compiler options are good at producing applications which run effectively.
 
-If you are confident in what you are doing and have a specific requirement to compile for only one architecture we would advise contacting the `Helpdesk <contact_us.html>`_ for further details, as this will enable us to give you the best advice for your situation.
+If you are confident in what you are doing and have a specific requirement to compile for only one architecture we would advise contacting the `Helpdesk <scarf_contact.html>`_ for further details, as this will enable us to give you the best advice for your situation.
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Getting access to a compilation node
