@@ -12,14 +12,19 @@ libBoost
 
 **Description for libBoost:**
 
-<add description here>
+Boost C++ Libraries.
 
 **Using libBoost:**
 
-<add libBoost usage info here>
+Run:
+
+.. code-block:: console
+
+  $ module load libboost/1.55 
+
+to add Boost libraries to your envrionment.
+
 
 **Documentation for libBoost:**
 
-<add URL to libBoost docs here>
-
-`libBoost <https://www.libBoost.org/>`_
+`http://www.boost.org/doc/libs/ <http://www.boost.org/doc/libs/>`_

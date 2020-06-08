@@ -22,4 +22,4 @@ libPytz
 
 <add URL to libPytz docs here>
 
-`libPytz <https://www.libPytz.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

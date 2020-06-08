@@ -22,4 +22,4 @@ libSubprocess32
 
 <add URL to libSubprocess32 docs here>
 
-`libSubprocess32 <https://www.libSubprocess32.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

@@ -22,4 +22,4 @@ libSix
 
 <add URL to libSix docs here>
 
-`libSix <https://www.libSix.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

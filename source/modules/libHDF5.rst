@@ -12,14 +12,19 @@ libHDF5
 
 **Description for libHDF5:**
 
-<add description here>
+Description from `HDF5 website <http://www.hdfgroup.org/HDF5/>`_: "HDF5 is a data model, library, and file format for storing and managing data."
+
 
 **Using libHDF5:**
 
-<add libHDF5 usage info here>
+Run:
+
+.. code-block:: console
+
+  $ module load libHDF5/intel/14.0/1.8.12 
+
+to add HDF5 libraries to your envrionment.
 
 **Documentation for libHDF5:**
 
-<add URL to libHDF5 docs here>
-
-`libHDF5 <https://www.libHDF5.org/>`_
+`http://portal.hdfgroup.org/display/HDF5/HDF5 <http://portal.hdfgroup.org/display/HDF5/HDF5>`_

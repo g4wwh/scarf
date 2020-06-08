@@ -12,14 +12,7 @@ ansys
 
 **Description for ansys:**
 
-<add description here>
+Getting help
 
-**Using ansys:**
+We don't yet provide any specific documentation for this software, if you need assistance please contact the helpdesk.
 
-<add ansys usage info here>
-
-**Documentation for ansys:**
-
-<add URL to ansys docs here>
-
-`ansys <https://www.ansys.org/>`_

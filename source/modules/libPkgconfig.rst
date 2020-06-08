@@ -22,4 +22,4 @@ libPkgconfig
 
 <add URL to libPkgconfig docs here>
 
-`libPkgconfig <https://www.libPkgconfig.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

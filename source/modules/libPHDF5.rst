@@ -12,14 +12,20 @@ libPHDF5
 
 **Description for libPHDF5:**
 
-<add description here>
+Parallel HDF5 library.
+
 
 **Using libPHDF5:**
 
-<add libPHDF5 usage info here>
+Run:
+
+.. code-block:: console
+
+  $ module load libPHDF5/intel/14.0/1.8.12
+
+to add PHDF5 libraries to your envrionment.
+
 
 **Documentation for libPHDF5:**
 
-<add URL to libPHDF5 docs here>
-
-`libPHDF5 <https://www.libPHDF5.org/>`_
+`http://www.hdfgroup.org/HDF5/doc/index.html <http://www.hdfgroup.org/HDF5/doc/index.html>`_

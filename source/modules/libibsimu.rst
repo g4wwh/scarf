@@ -12,14 +12,19 @@ libibsimu
 
 **Description for libibsimu:**
 
-<add description here>
+Ion Beam Simulator.
 
 **Using libibsimu:**
 
-<add libibsimu usage info here>
+Run:
+
+.. code-block:: console
+
+  $ module load libibsimu/1.0.5b 
+
+to add  IBsiumu libraries to your envrionment.
+
 
 **Documentation for libibsimu:**
 
-<add URL to libibsimu docs here>
-
-`libibsimu <https://www.libibsimu.org/>`_
+`http://ibsimu.sourceforge.net/tutorial.html <http://ibsimu.sourceforge.net/tutorial.html>`_

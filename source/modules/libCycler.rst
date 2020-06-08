@@ -22,4 +22,4 @@ libCycler
 
 <add URL to libCycler docs here>
 
-`libCycler <https://www.libCycler.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

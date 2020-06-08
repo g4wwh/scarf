@@ -12,14 +12,16 @@ scipy
 
 **Description for scipy:**
 
-<add description here>
+Scientific Library for Python
 
 **Using scipy:**
 
-<add scipy usage info here>
+.. code-block:: console
+
+  $ module load scipy/0.15.1-Python-3.4.3 
+  $ python3
+  >>> import scipy
 
 **Documentation for scipy:**
 
-<add URL to scipy docs here>
-
-`scipy <https://www.scipy.org/>`_
+`http://docs.scipy.org/doc/ <http://docs.scipy.org/doc/>`_

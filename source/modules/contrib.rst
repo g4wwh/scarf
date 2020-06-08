@@ -12,14 +12,5 @@ contrib
 
 **Description for contrib:**
 
-<add description here>
+These are the modules contributed by the users. `Here <../scarf_code_sharing.html>`_ is documentation on how to share your code with other users.
 
-**Using contrib:**
-
-<add contrib usage info here>
-
-**Documentation for contrib:**
-
-<add URL to contrib docs here>
-
-`contrib <https://www.contrib.org/>`_

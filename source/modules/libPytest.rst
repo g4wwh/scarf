@@ -22,4 +22,4 @@ libPytest
 
 <add URL to libPytest docs here>
 
-`libPytest <https://www.libPytest.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

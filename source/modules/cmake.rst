@@ -12,14 +12,18 @@ cmake
 
 **Description for cmake:**
 
-<add description here>
+CMake is a cross platform Make system. Note that SCARF already has a version of cmake installed, this module exists if you need a later version.
 
 **Using cmake:**
 
-<add cmake usage info here>
+To use CMake, run:
+
+.. code-block:: console
+
+  $ module load cmake/2.8.12
+
 
 **Documentation for cmake:**
 
-<add URL to cmake docs here>
 
-`cmake <https://www.cmake.org/>`_
+`www.cmake.org/cmake/help/documentation.html <https://www.cmake.org/cmake/help/documentation.html>`_

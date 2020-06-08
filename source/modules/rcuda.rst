@@ -22,4 +22,4 @@ rcuda
 
 <add URL to rcuda docs here>
 
-`rcuda <https://www.rcuda.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

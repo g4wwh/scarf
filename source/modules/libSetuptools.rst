@@ -22,4 +22,4 @@ libSetuptools
 
 <add URL to libSetuptools docs here>
 
-`libSetuptools <https://www.libSetuptools.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

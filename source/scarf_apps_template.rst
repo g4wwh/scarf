@@ -19,4 +19,4 @@ $$$$$$$$$$$$$$$
 Other Software:
 $$$$$$$$$$$$$$$
 
-singularity
+`singularity <http://singularity.lbl.gov>`_

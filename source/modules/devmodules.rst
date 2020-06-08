@@ -22,4 +22,4 @@ devmodules
 
 <add URL to devmodules docs here>
 
-`devmodules <https://www.devmodules.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

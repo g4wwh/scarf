@@ -12,7 +12,7 @@ votca
 
 **Description for votca:**
 
-<add description here>
+Versatile Object-oriented Toolkit for Coarse-graining Applications is a Coarse-grained modeling package, which focuses on the analysis of molecular dynamics data, the development of systematic coarse-graining techniques as well as methods used for simulating microscopic charge transport in disordered semiconductors.
 
 **Using votca:**
 
@@ -20,6 +20,4 @@ votca
 
 **Documentation for votca:**
 
-<add URL to votca docs here>
-
-`votca <https://www.votca.org/>`_
+`www.votca.org <http://www.votca.org>`_

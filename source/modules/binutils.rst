@@ -12,14 +12,4 @@ binutils
 
 **Description for binutils:**
 
-<add description here>
-
-**Using binutils:**
-
-<add binutils usage info here>
-
-**Documentation for binutils:**
-
-<add URL to binutils docs here>
-
-`binutils <https://www.binutils.org/>`_
+Binutils is a collection of utilites for operating on binary files. Some compilers had difficulty building codes for our latest nodes without a newer version of binutils that provided by the operating system. If you aren't having problems you probably don't need to use these modules.

@@ -22,4 +22,4 @@ libPy
 
 <add URL to libPy docs here>
 
-`libPy <https://www.libPy.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

@@ -12,14 +12,19 @@ visit
 
 **Description for visit:**
 
-<add description here>
+"VisIt is an Open Source, interactive, scalable, visualization, animation and analysis tool." description from the `VisIt website. <https://wci.llnl.gov/simulation/computer-codes/visit>`_
 
 **Using visit:**
 
-<add visit usage info here>
+Please make sure that you are logged onto SCARF with SSH keys rather than Federal ID/Password. There are instructions on how to do this.
+
+After successfully logging in, to launch GUI run:
+
+.. code-block:: console
+
+  $ module load visit/2.7.0
+  $ visit
 
 **Documentation for visit:**
 
-<add URL to visit docs here>
-
-`visit <https://www.visit.org/>`_
+`https://wci.llnl.gov/simulation/computer-codes/visit <https://wci.llnl.gov/simulation/computer-codes/visit>`_

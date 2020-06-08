@@ -22,4 +22,5 @@ covid-sim
 
 <add URL to covid-sim docs here>
 
-`covid-sim <https://www.covid-sim.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_
+

@@ -22,4 +22,4 @@ h5py
 
 <add URL to h5py docs here>
 
-`h5py <https://www.h5py.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

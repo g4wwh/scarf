@@ -22,4 +22,4 @@ libFunctools_lru_cache
 
 <add URL to libFunctools_lru_cache docs here>
 
-`libFunctools_lru_cache <https://www.libFunctools_lru_cache.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

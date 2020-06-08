@@ -22,4 +22,4 @@ libDateutil
 
 <add URL to libDateutil docs here>
 
-`libDateutil <https://www.libDateutil.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

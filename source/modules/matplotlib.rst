@@ -12,14 +12,17 @@ matplotlib
 
 **Description for matplotlib:**
 
-<add description here>
+Python plotting package
 
 **Using matplotlib:**
 
-<add matplotlib usage info here>
+.. code-block:: console
+
+  $ module load matplotlib/1.4.3-Python-3.4.3 
+  $ python3
+  >>> import matplotlib
+
 
 **Documentation for matplotlib:**
 
-<add URL to matplotlib docs here>
-
-`matplotlib <https://www.matplotlib.org/>`_
+`http://matplotlib.org/ <http://matplotlib.org/>`_

@@ -22,4 +22,4 @@ libSetuptools_scm
 
 <add URL to libSetuptools_scm docs here>
 
-`libSetuptools_scm <https://www.libSetuptools_scm.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

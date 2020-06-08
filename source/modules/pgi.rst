@@ -12,14 +12,18 @@ pgi
 
 **Description for pgi:**
 
-<add description here>
+Portland Group compilers and tools
 
 **Using pgi:**
 
-<add pgi usage info here>
+.. code-block:: console
+
+  $ module load pgi/14.6
+  $ which pgcc
+  /apps/pgi/14.6/linux86-64/14.6/bin/pgcc
+  $ which pgCC
+  /apps/pgi/14.6/linux86-64/14.6/bin/pgcc
 
 **Documentation for pgi:**
 
-<add URL to pgi docs here>
-
-`pgi <https://www.pgi.org/>`_
+PGI user guide: `http://www.pgroup.com/doc/pgiug.pdf <http://www.pgroup.com/doc/pgiug.pdf>`_

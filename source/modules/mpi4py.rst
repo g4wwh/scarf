@@ -12,14 +12,25 @@ mpi4py
 
 **Description for mpi4py:**
 
-<add description here>
+MPI binding for python.
 
 **Using mpi4py:**
 
-<add mpi4py usage info here>
+Please run launch an interactive session:
+
+.. code-block:: console
+
+  $ bsub -Is /bin/bash
+  Job <1223> is submitted to queue <scarf>.
+  <<Waiting for dispatch ...>>
+  <<Starting on cnXXX.scarf.rl.ac.uk>>
+
+And then run,
+
+.. code-block:: console
+
+  $ module load mpi4py/1.3 
 
 **Documentation for mpi4py:**
 
-<add URL to mpi4py docs here>
-
-`mpi4py <https://www.mpi4py.org/>`_
+`https://bitbucket.org/mpi4py/mpi4py/wiki/Home <https://bitbucket.org/mpi4py/mpi4py/wiki/Home>`_

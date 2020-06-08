@@ -22,4 +22,4 @@ libPyparsing
 
 <add URL to libPyparsing docs here>
 
-`libPyparsing <https://www.libPyparsing.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

@@ -12,14 +12,18 @@ root
 
 **Description for root:**
 
-<add description here>
+`ROOT <http://root.cern.ch/>`_  is a data analysis framework.
 
 **Using root:**
 
-<add root usage info here>
+Run:
+
+.. code-block:: console
+
+  $ module load ROOT/5.34.10
+
+to add ROOT binaries and libraries to your envrionment.
 
 **Documentation for root:**
 
-<add URL to root docs here>
-
-`root <https://www.root.org/>`_
+ROOT User guide: `http://root.cern.ch/drupal/content/users-guide <http://root.cern.ch/drupal/content/users-guide>`_

@@ -22,4 +22,4 @@ libPluggy
 
 <add URL to libPluggy docs here>
 
-`libPluggy <https://www.libPluggy.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

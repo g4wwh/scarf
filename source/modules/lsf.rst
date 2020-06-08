@@ -12,7 +12,8 @@ lsf
 
 **Description for lsf:**
 
-<add description here>
+LSF module loads batch systems binaries like, bjobs, bpeek,etc. to your path.
+
 
 **Using lsf:**
 
@@ -21,5 +22,3 @@ lsf
 **Documentation for lsf:**
 
 <add URL to lsf docs here>
-
-`lsf <https://www.lsf.org/>`_

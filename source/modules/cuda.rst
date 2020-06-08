@@ -16,10 +16,11 @@ cuda
 
 **Using cuda:**
 
-<add cuda usage info here>
+To access these module you will need to load the GPUModules module first.
+
 
 **Documentation for cuda:**
 
 <add URL to cuda docs here>
 
-`cuda <https://www.cuda.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

@@ -1,0 +1,1 @@
+.. note:: SCARF is migrating to the SLURM batch system, instructions on this page which refer to LSF commands, parameters or configuration do not apply to SLURM. Please see our SLURM page for more information.

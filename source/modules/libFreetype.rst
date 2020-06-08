@@ -22,4 +22,4 @@ libFreetype
 
 <add URL to libFreetype docs here>
 
-`libFreetype <https://www.libFreetype.org/>`_
+We don't yet provide any specific documentation for this software, if you need assistance please contact the `helpdesk. <../scarf_contact.html>`_

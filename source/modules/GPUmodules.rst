@@ -1,25 +1,15 @@
 :orphan:
 
-******
+**********
 GPUmodules
-******
+**********
 
 .. include:: ../scarf_apps_subpage_template.rst
 
-**RHEL7 Modules:**
+**Description**
 
-.. include:: ../../tmp/GPUmodules_files.txt
+By loading this module with the command below you will be able to see the GPU software available:
 
-**Description for GPUmodules:**
+.. code-block:: console
 
-<add description here>
-
-**Using GPUmodules:**
-
-<add GPUmodules usage info here>
-
-**Documentation for GPUmodules:**
-
-<add URL to GPUmodules docs here>
-
-`GPUmodules <https://www.GPUmodules.org/>`_
+  module load GPUModules
