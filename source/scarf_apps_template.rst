@@ -1,3 +1,5 @@
+:orphan:
+
 ##########################
 Applications and Libraries
 ##########################
@@ -8,7 +10,9 @@ Here are the up-to-date lists of Applications and Libraries available on SCARF. 
 
 The first list is built automatically from the modules available on the cluster. The second is for other significant pieces of software which are not accessed via the module system - this is typically software that is installed with the operating system and has not been compiled by the SCARF admin team.
 
-INSERT_MODULES_HERE
+$$$$$$$$$$$$$$
+SCARF Modules:
+$$$$$$$$$$$$$$
 
 
 $$$$$$$$$$$$$$$
