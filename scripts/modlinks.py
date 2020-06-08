@@ -6,10 +6,11 @@
 
 import math
 
+tmp_file = "/sphinx/scarf/tmp/module_names"
 num_cols = 4
-num_mods = len(open('tmp/modlist').readlines(  ))
+num_mods = len(open(tmp_file).readlines(  ))
 
-modfile = open('tmp/modlist')
+modfile = open(tmp_file)
 all_lines = modfile.readlines()
 
 col_width = len((max(all_lines, key=len)))
