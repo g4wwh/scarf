@@ -2,7 +2,7 @@
 
 NEWS_TEMPLATE=/sphinx/scarf/build/html/scarf_news_template.html
 NEWS_PAGE=/sphinx/scarf/build/html/scarf_news.html
-RSS_FEED=/sphinx/scarf/scripts/tmp/rss_feed.html
+RSS_FEED=/sphinx/scarf/tmp/rss_feed.html
 
 cp -f $NEWS_TEMPLATE $NEWS_PAGE
 

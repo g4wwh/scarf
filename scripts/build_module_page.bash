@@ -11,3 +11,5 @@ cp -f $APPS_TEMPLATE $APPS_PAGE
 /usr/bin/python3 /sphinx/scarf/scripts/modlinks.py > $MODLINKS
 
 sed -i -e "/SCARF Modules:/r $MODLINKS" $APPS_PAGE 
+
+/sphinx/scarf/scripts/build_module_subpages.bash
